@@ -24,7 +24,7 @@ github_username:  originalthoughts
 
 # Build settings
 markdown: kramdown
-theme: hitchens-theme
+theme: minima
 plugins:
   - jekyll-feed
 show_excerpts: true
