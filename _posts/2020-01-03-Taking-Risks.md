@@ -5,7 +5,7 @@ date:   2020-01-03 12:46:42 -0600
 categories: jekyll update
 ---
 ![image](/assets/images/image2.png)
-Risk is a way of living. As Agnes de Mille puts it, “Living is a form of not being sure, not knowing what next or how. The moment you know how, you begin to die a little. The artist never entirely knows. We guess. We may be wrong, but we take leap after leap in the dark.“
+Risk is a way of living. As Agnes de Mille puts it, `“Living is a form of not being sure, not knowing what next or how. The moment you know how, you begin to die a little. The artist never entirely knows. We guess. We may be wrong, but we take leap after leap in the dark.“`
 
 Now, if you possess the quality of avoiding risks in life, you may want to rethink the philosophy you’ve adopted up to this point. It’s important to clarify that I exclude risks that are at the extreme end of the potential reward/loss spectrum, for instance, gambling, robbery etc. Those obviously need to be avoided as far as possible. But I’m talking about risks that are in the grey areas that deserve one's consideration. When a risk present itself, you will subconsciously begin evaluating the outcomes, and chose one at the end in most cases. Think about it: What in you is really stopping you from taking this risk? Fear of the negative outcome, Laziness for potential labor, inner cowardice, insecurities, lack of confidence of your ability to handle the outcome, or maybe you think you’re just being smart: imagine how dumb I will look to people if I fail! These mindsets are clearly unhealthy to your mental health. And long period of this kind of thinking pattern can put you in a bad position in life.
 
@@ -15,4 +15,4 @@ I think it's fair to even say that a life completely calculated is not worth liv
 
 You can never lose from calculated risk. The process helps you learn and you will know it better next time. If the negative outcome happens it may requires you extra efforts to make up for it. But isn't that a good thing? It pushes you to do better, work harder, think smarter. Once you begin falling in love with taking risk you will never need to go back to your old life style, that boring, foreseeable one, the one that direct you instead of the other way around. If you're hesitant, I say its time to change.
 
-"The Edge... there is no honest way to explain it because the only people who really know where it is are the ones who have gone over." - Hunter S. Thompson
+`"The Edge... there is no honest way to explain it because the only people who really know where it is are the ones who have gone over." - Hunter S. Thompson`
